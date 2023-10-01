@@ -1,0 +1,47 @@
+1.	SISTEM MONITORING KELEMBAPAN SUHU DAN UDARA DALAM SUATU RUANGAN
+Sistem Monitoring Kelembapan, Suhu, dan Udara dalam Suatu Ruangan adalah sebuah perangkat atau sistem yang dirancang untuk secara terus-menerus memantau dan merekam informasi tentang tingkat kelembapan, suhu, dan kualitas udara di dalam suatu ruangan
+a.	Identifikasi Masalah 
+Kelembaban dalam ruangan dapat menyebabkan akibat yang diberikan baik secara material maupun non-material. Berdasarkan hal tersebut, dapat di identifikasi permasalahan yang terjadi sebagai berikut :
+-	Ketidaknyamanan penghuni
+Jika kelembapan, suhu, atau kualitas udara dalam ruangan tidak sesuai dengan preferensi atau kebutuhan penghuni, hal ini dapat menyebabkan ketidaknyamanan. Misalnya, suhu terlalu panas atau dingin, kelembapan rendah atau tinggi dapat membuat orang merasa tidak nyaman. Selain itu, kelembaban suhu dan udara juga memengaruhi kesehatan bagi penghuni. Kualitas udara yang buruk akibat tingkat polusi yang tinggi atau konsentrasi zat-zat berbahaya dapat berdampak negatif pada kesehatan, seperti masalah pernapasan, iritasi mata, alergi, atau masalah kesehatan lainnya. 
+-	Kerusakan Materi
+Kelembapan yang berlebihan dalam ruangan dapat menyebabkan kerusakan pada bahan-bahan, seperti kayu yang membengkak atau kertas yang berkerut. Suhu yang ekstrem juga dapat mempengaruhi beberapa materi dengan cara yang merugikan. Kerusakan materi ini dapat berupa pertumbuhan jamur pada suatu bangunan atau perabotan. Hal tersebut karena jamur cocok dengan lingkungan yang memiliki kelembapan yang tinggi. 
+-	Perubahan Musim
+Suhu, kelembapan, dan kualitas udara dalam ruangan dapat berubah secara signifikan selama musim berbeda. Hal tersebut membuat ruang tidak dapat menyesuaikan diri dengan perubahan ini. 
+
+b.	Research Question
+Research question adalah pertanyaan kunci yang diajukan dalam sebuah penelitian atau studi untuk mengarahkan investigasi dan membantu mendapatkan pemahaman yang lebih baik tentang topik yang diteliti
+-	Apa efek dampak suhu dan kelembapan lingkungan terhadap kesehatan manusia, terutama pada populasi yang rentan?
+-	Bagaimana teknologi sensor terbaru dapat digunakan untuk memantau dan mengendalikan kelembapan, suhu, dan kualitas udara dalam rumah secara efisien?
+
+c.	Teori yang Berkaitan
+-	Prinsip Sensor : Teori ini berfokus pada cara manusia merasakan suhu, kelembapan, dan kualitas udara dalam ruangan. Ini membantu dalam pemilihan dan penempatan sensor yang sesuai dalam sistem monitoring.
+-	Teori Teknologi Sensor: Dalam pemantauan, teori tentang teknologi sensor, seperti pengambilan data, kalibrasi, dan ketepatan pengukuran, sangat relevan dalam memahami bagaimana sistem monitoring dapat berfungsi dengan baik
+-	Arduino : Merupakan platform yang digunakan untuk mengembangkan perangkat keras dan perangkat lunak untuk membuat proyek monitoring
+
+
+
+2.	SISTEM MONITORING UJI PH AIR
+a.	Identifikasi Masalah 
+-	Kesehatan Gastrointestinal
+Air yang memiliki pH ekstrem, baik terlalu asam (pH rendah) atau terlalu basa (pH tinggi), dapat menyebabkan masalah pencernaan. Air asam dapat mengiritasi saluran pencernaan dan menyebabkan gangguan pencernaan seperti sakit perut, mual, dan diare. Sebaliknya, air yang terlalu basa juga dapat mengganggu keseimbangan pH dalam lambung dan usus.
+-	Kesehatan Oral
+Air dengan pH rendah (asam) dapat merusak enamel gigi, mengakibatkan kerusakan gigi atau sensitivitas gigi. Ini dapat terjadi jika air yang dikonsumsi memiliki kadar asam yang tinggi, seperti air yang tinggi kandungan asam karbonat.
+-	Gangguan Keseimbangan pH Tubuh
+Konsumsi air dengan pH yang tidak seimbang dapat memengaruhi keseimbangan pH dalam tubuh manusia. Tubuh manusia memiliki sistem yang rumit untuk menjaga pH darah pada tingkat yang tepat, dan air dengan pH yang ekstrem dapat mengganggu proses ini.
+-	Pencemaran Air
+Pencemaran air oleh limbah industri atau alam dapat mengubah pH air di lingkungan tertentu. Air yang terkontaminasi dengan pH ekstrem dapat menyebabkan masalah kesehatan bagi manusia yang mengonsumsinya atau terpapar olehnya. Hal ini memengaruhi pada kesehatan manusia. Air yang merupakan sumber yang sangat penting bagi tubuh manusia sehingga jika air memiliki pH yang ekstrem atau tidak sesuai dengan standar kualitas air minum dapat mengancam kesehatan manusia yang mengonsumsinya.
+-	Kesehatan Lingkungan
+Kualitas air yang buruk, termasuk tingkat pH yang tidak sesuai, juga dapat berdampak negatif pada ekosistem air, seperti sungai dan danau, yang dapat memengaruhi kesehatan manusia secara tidak langsung.
+
+b.	Research Question 
+Bagaimana sistem sensor IoT (Internet of Things) dapat digunakan untuk pengukuran pH air secara real-time dan bagaimana data tersebut dapat diintegrasikan dalam analisis lingkungan?
+
+c.	Teori yang Berkaitan
+-	Teori pH
+Ini adalah dasar utama dalam pemahaman tentang pengukuran pH. Teori pH menjelaskan skala pH, di mana nilai pH mengindikasikan tingkat keasaman (pH rendah), netralitas (pH 7), atau kebasaan (pH tinggi) dari sebuah larutan. Teori ini berguna dalam menafsirkan data pH air yang diukur.
+-	Teori Kualitas Air 
+Sistem monitoring pH air sering terkait dengan pemantauan kualitas air secara lebih luas, termasuk parameter seperti oksigen terlarut, konduktivitas, dan kontaminan lainnya. Teori kualitas air membantu dalam pemahaman tentang interaksi antara parameter-parameter ini dan pH.
+-	Teori Sensor Elektroda Ion-Selektif
+Elektroda pH adalah sensor ion-selektif yang bekerja berdasarkan perubahan potensial elektrokimia yang bergantung pada konsentrasi ion hidrogen. Teori ini menjelaskan prinsip kerja elektroda pH dalam mendeteksi perubahan pH.
+
