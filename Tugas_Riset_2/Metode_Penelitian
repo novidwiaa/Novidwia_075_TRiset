@@ -3,9 +3,6 @@ Metode penelitian yang saya gunakan dalam perancangan alat sistem monitoring ini
 (2) Analisa Kebutuhan --> Apa saja yang alat-alat yang dibutuhkan dalam pembuatan alat ini
 (3) Studi Pustaka --> Dilakukan pengumpulan informasi yang relevan terkait sistem monitoring Suhu, Kelembaban, dan Udara dalam suatu lingkungan 
 (4) Perancangan Alat --> Merancang alat sesuai dengan kebutuhan 
-Dalam perancangan alat, metode pengumpulan dan analisis data yang digunakan, yaitu :
-- Penggunaan sensor DHT22 -> Sensor yang digunakan khusus untuk mendeteksi kelembaban, suhu, dan udara 
-- Penggunaan passive infrared (PIR) -> Mendeteksi kehadiran manusia dalam ruangan
 (5) Pengujian Alat --> Untuk mengetahui apakah alat monitoring sudah berjalan dengan semestinya atau tidak 
 
 Berikut merupakan sumber metode penelitian yang saya gunakan yang berjudul "Sistem Kendali Suhu dan Pemantauan Kelembaban Udara Ruangan Berbasis Arduino Uno dengan Menggunakan Sensor DHT22 dan Passive Infrared (PIR)
