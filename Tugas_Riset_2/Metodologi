@@ -1,0 +1,12 @@
+Metode  penelitian yang  digunakan  untuk pembuatan alat monitoringdan  kendali  suhu  
+serta  gerak  pada ruang server, meliputi:   
+(1) analisa   kebutuhan   alat   yang   diperlukan aplikasi  ini 
+(2) studi  literatur  tentang  teori-teori  dan makalah yang terkait dengan penelitian, seperti :
+- pembuatan alat monitoring suhu dan gerak pada ruang server
+- perancangan perangkat keras, yang meliputi perancangan  rangkaian  sensor suhudan  sensor  gerak
+- rangkaian   sistem   minimum   mikrokontroler Arduino Uno
+- perancangan perangkat  lunak  yang digunakan untuk pencatatan  suhu  dan  gerak pada  ruang untuk memberikan perintah pada perangkat keras
+- pengujian dan analisa rangkaian yang telah dibuat serta menuliskan laporan hasil penelitian
+
+Berikut merupakan sumber dari metodologi yang saya gunakan berjudul : Kendali Ruang Server Menggunakan Sensor Suhu DHT22, Gerak PIR dengan Notifikasi Emaik
+Link : https://seminar.iaii.or.id/index.php/SISFOTEK/article/view/29/21
